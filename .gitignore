@@ -23,3 +23,5 @@ hs_err_pid*
 
 # vscode folder
 .vscode/
+
+*.bat
